@@ -26,7 +26,7 @@ theme_config:
   show_reading_time: false # show number of words and reading time in the blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Projects
 
 highlighter: rouge
 
