@@ -10,6 +10,7 @@ I personally use the [Moonwalk](https://github.com/abhinavs/moonwalk) Jekyll the
 - Your site should be up and running!
 - For local development, fork this repo
 - Make sure Jekyll and Ruby is up-to-date
+- Run `bundle install` to install all necessary gems
 - Run `bundle exec jekyll serve`
 - Your site should be locally live
 
