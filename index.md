@@ -3,6 +3,8 @@ layout: home
 ---
 I personally use the [Moonwalk](https://github.com/abhinavs/moonwalk) Jekyll theme by [abhinavs](https://github.com/abhinavs) a lot, so this is a GitHub template that you can use to quickly create a Moonwalk website.
 
+*Find other GitHub template repos [here](https://github.com/Zo-Bro-23/templates)!*
+
 # Getting Started
 - Click the `Use this template` button on the top of [this](https://github.com/Zo-Bro-23/moonwalk-template) repo
 - Wait a couple of minutes for the GitHub Actions workflow to finish running
