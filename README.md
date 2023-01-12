@@ -15,7 +15,7 @@ I personally use the [Moonwalk](https://github.com/abhinavs/moonwalk) Jekyll the
 - Make sure Jekyll and Ruby are up-to-date
 - Run `bundle install` to install all necessary gems
 - Run `bundle exec jekyll serve`
-- Your site should be locally live
+- Your development site should be up and running!
 
 # Customization
 ## Download an asset from the internet
