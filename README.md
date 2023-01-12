@@ -1,7 +1,7 @@
 # Moonwalk Template
-Template for generating a Jekyll website based on the Moonwalk (@abhinavs/moonwalk) theme
-
 I personally use the [Moonwalk](https://github.com/abhinavs/moonwalk) Jekyll theme by [abhinavs](https://github.com/abhinavs) a lot, so this is a GitHub template that you can use to quickly create a Moonwalk website.
+
+*Find other GitHub template repos [here](https://github.com/Zo-Bro-23/templates)!*
 
 # Getting Started
 ## GitHub Pages
